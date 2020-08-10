@@ -1,6 +1,6 @@
 
 
-#### Job Title Prediction: Learn Knowledge For Job-Candidate Matching
+## Job Title Prediction: Learn Knowledge For Job-Candidate Matching
 
 **Author: Ruozhen (Gabriel Gu)**
 
