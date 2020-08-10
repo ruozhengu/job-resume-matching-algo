@@ -2,9 +2,11 @@
 
 #### Job Title Prediction: Learn Knowledge For Job-Candidate Matching
 
-Author: Ruozhen (Gabriel Gu)
-School of Computer Science
-University of Waterloo
+**Author: Ruozhen (Gabriel Gu)**
+
+**School of Computer Science**
+
+**University of Waterloo**
 
 ##### Abstract:
 
